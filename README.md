@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Kehan Li
+I'm a data hunter
 ![all-smile's GitHub stats](https://github-readme-stats.vercel.app/api?username=Adam04230&show_icons=true&theme=tokyonight)
-![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg)
+Thanks for being my ![Visitor Count](https://profile-counter.glitch.me/all-smile/count.svg) visitor
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adam04230&layout=compact&theme=tokyonight)
 <!--
 **Adam04230/Adam04230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
